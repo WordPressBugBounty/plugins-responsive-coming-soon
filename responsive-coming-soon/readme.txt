@@ -3,8 +3,8 @@ Contributors: wpshopmart
 Donate link: http://www.wpshopmart.com
 Tags: coming soon, coming soon page, maintenance mode, under construction, site offline
 Requires at least: 5.0
-Tested up to: 6.6
-Stable tag: 2.2.3
+Tested up to: 6.7.1
+Stable tag: 2.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -255,6 +255,9 @@ We love your feedback please submit your review here [pluigns review](https://wo
 
 
 == Changelog ==
+
+= 2.2.4 =
+* Compatible With wordpress 6.7.1
 
 = 2.2.3 =
 * Compatible With wordpress 6.6
